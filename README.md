@@ -26,9 +26,9 @@ This functionality provides users with a versatile set of problems to solve, enh
 Users can actively participate in solving generated cash flow problems by inputting their solutions.
 This interactive feature empowers users to apply their financial expertise and problem-solving skills, allowing them to assess the impact of their decisions on cash flow optimization.
 
-## Technical Components:
+# Technical Components:
 
-# Heap Data Structure:
+## Heap Data Structure:
 
 The project employs the heap data structure as part of the Shortest Path algorithm implementation, enabling efficient analysis, prioritization, and adjustment of cash flow transactions.
 HashMap Usage:
@@ -36,14 +36,14 @@ HashMap Usage:
 A HashMap is utilized to store expenses in the format of person names and corresponding amounts. This data structure facilitates the tracking of cash flow transactions.
 Project Workflow:
 
-# Net Amount Calculation:
+## Net Amount Calculation:
 
 The algorithm begins by calculating the net amount for each person, obtained by subtracting debts from credits.
 The person with the minimum net amount is identified as the first to be settled.
-# Selection of First Person:
+## Selection of First Person:
 
 The algorithm selects the first person to settle based on the minimum of two amounts: the maximum debtor and the maximum creditor. If equal, the maximum debtor is settled; otherwise, the maximum creditor is settled.
-# Optimization and Simplification:
+## Optimization and Simplification:
 
 The goal is to simplify the debt graph by settling debts directly between creditors and debtors, avoiding unnecessary intermediate transactions.
 The algorithm iteratively settles debts, minimizing the overall cash flow until all transactions are resolved.
