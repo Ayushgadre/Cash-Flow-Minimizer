@@ -1,9 +1,9 @@
-## Cash Flow Minimizer - Optimizing Financial Transactions Using Shortest Path Algorithm
+# Cash Flow Minimizer - Optimizing Financial Transactions Using Shortest Path Algorithm
 
 The Cash Flow Minimizer project is an innovative web-based application developed with a focus on optimizing cash flow management through the implementation of graph algorithms, specifically the Shortest Path algorithm. The project, crafted using HTML, CSS, and JavaScript, offers a user-friendly interface that facilitates efficient input of cash flow transactions, providing users with optimized solutions to streamline financial dealings within a group.
 
 
-### Getting Started  
+## Getting Started  
 
 ## Key Features:
 
