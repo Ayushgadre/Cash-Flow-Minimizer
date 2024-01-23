@@ -64,3 +64,18 @@ There's no sense in $10 making its way from Alice to Bob and then from Bob to Ch
 The goal, then, in the general case is to take a debt graph and simplify it (i.e. produce a new graph with the same nodes but different edges).
 
 
+
+
+# Splitwise 
+https://user-images.githubusercontent.com/56497318/127523960-86589587-376e-41a4-867d-805c6c7cf300.mp4
+
+
+### Description
+Simplifies dense cash flows
+
+### Skills nurtured:
+  - Heap & Graph.
+  - Splitwise algorithm to remove unnecessary edges(cash flow) of graph.
+
+### Tech. Stack:
+HTML, CSS, JS, CANVAS
